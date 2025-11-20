@@ -12,7 +12,10 @@
 *::after {
   box-sizing: border-box;
 }
-
+body {
+  background: #111;
+  color: #0f0;
+}
 body {
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
